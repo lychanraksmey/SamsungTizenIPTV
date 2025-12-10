@@ -69,14 +69,24 @@ http://202.62.56.22:8080/hls/MOITV.m3u8
 #EXTINF:-1 tvg-id="CN.us" tvg-country="US" tvg-logo="https://raw.githubusercontent.com/lychanraksmey/SamsungTizenIPTV/refs/heads/main/logo/CN.png" group-title="អង់គ្លេស",Cartoon Network East
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="BabyShark.us" tvg-country="US" tvg-logo="https://raw.githubusercontent.com/lychanraksmey/SamsungTizenIPTV/refs/heads/main/logo/BabyShark.png" group-title="អង់គ្លេស",Baby Shark
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-country="US" tvg-logo="https://raw.githubusercontent.com/lychanraksmey/SamsungTizenIPTV/refs/heads/main/logo/MoiveSphere.png" group-title="អង់គ្លេស",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CBS.us" tvg-country="US" tvg-logo="https://raw.githubusercontent.com/lychanraksmey/SamsungTizenIPTV/refs/heads/main/logo/CBS.png" group-title="អង់គ្លេស",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
+#EXTINF:-1 tvg-id="NatGeoWild.us" tvg-country="US" tvg-logo="https://raw.githubusercontent.com/lychanraksmey/SamsungTizenIPTV/refs/heads/main/logo/NatGeoWild.png" group-title="អង់គ្លេស",NatGeo WILD
+https://fl7.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+
 #EXTINF:-1 tvg-id="BeINXtra.us" tvg-country="US" tvg-logo="https://raw.githubusercontent.com/lychanraksmey/SamsungTizenIPTV/refs/heads/main/logo/beinsports.png" group-title="អង់គ្លេស",BeIN Sports XTRA
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="One31.th" tvg-country="TH" tvg-logo="https://raw.githubusercontent.com/lychanraksmey/SamsungTizenIPTV/refs/heads/main/logo/one31.png" group-title="ថៃ",One 31
+https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+
 
 
 
